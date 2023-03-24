@@ -19,6 +19,8 @@
 
 - 💻 I’m currently learning **Flutter and Dart by self**
 
+- 👀  I'm looking for an **internship for summer summer** 
+
 - 📫 How to reach me ? **anastaleeb750@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
