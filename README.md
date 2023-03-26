@@ -19,7 +19,7 @@
 
 - 💻 I’m currently learning **Flutter and Dart by self**
 
-- 👀  I'm looking for an **internship for summer summer** 
+- 👀  I'm looking for an **internship for summer semester** 
 
 - 📫 How to reach me ? **anastaleeb750@gmail.com**
 
