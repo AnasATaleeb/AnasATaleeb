@@ -13,11 +13,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasataleeb&label=Profile%20views&color=0e75b6&style=flat" alt="anasataleeb" /> </p>
 
-- 🔭 I’m currently working on **Introduction to the graduation project**
+- 🔭 I’m currently working on **Graduation project**
 
 - 💻 I’m currently learning **Flutter and Dart by self**
 
-- 👀  I'm looking for an **internship for summer semester** 
+- 👀  I'm Full Stack Developer @**Olivery App** 
 
 - 📫 How to reach me ? **anastaleeb750@gmail.com**
 
