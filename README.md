@@ -13,11 +13,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasataleeb&label=Profile%20views&color=0e75b6&style=flat" alt="anasataleeb" /> </p>
 
-- 🔭 I’m currently working on **Graduation project**
 
-- 💻 I’m currently learning **Flutter and Dart by self**
-
-- 👀  I'm Full Stack Developer @**Olivery App** 
+- 👀  I'm Senior BackEnd Developer (SpringBoot) @**SumeriaLTD** 
 
 - 📫 How to reach me ? **anastaleeb750@gmail.com**
 
